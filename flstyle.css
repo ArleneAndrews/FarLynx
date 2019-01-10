@@ -1,0 +1,115 @@
+html {
+    font-family: "Times New Roman";
+    background-color: #ffdab9;
+}
+
+.pquote {
+    float: left;
+    width: auto;
+    background: rgb(250, 195, 195);
+    font-weight: bold;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
+.pquote1 {
+    float: left;
+    width: 100px;
+    background: rgb(250, 195, 195);
+    font-weight: bold;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
+blockquote {
+    margin: 0;
+}
+
+#navbutton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#navbutton-main {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#jumbo {
+    color: #F5F7E6;
+    font-size: 400%;
+}
+
+.inital-cap {
+    font-size: 1.9em;
+}
+
+a:link {
+    color: red;
+}
+
+
+/* visited link */
+
+a:visited {
+    color: green;
+}
+
+
+/* mouse over link */
+
+a:hover {
+    color: hotpink;
+}
+
+
+/* selected link */
+
+a:active {
+    color: blue;
+}
+
+#open {
+    background-color: lightblue;
+    background: url(https://res.cloudinary.com/kara/image/upload/e_blur:1636/v1508168284/raspberries_2_kvdmja.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#vanilla {
+    background-color: #F5F7E6;
+}
+
+#about {
+    background-color: peru;
+}
+
+#img {
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img2 {
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    text-align: right;
+}
